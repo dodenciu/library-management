@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement\\LibraryManagement.csproj": {}
+    "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement\\LibraryManagement.csproj": {
+    "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement\\LibraryManagement.csproj",
-        "projectName": "LibraryManagement",
-        "projectPath": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement\\LibraryManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj",
+        "projectName": "LibraryManagement.BusinessLogic",
+        "projectPath": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.BusinessLogic\\LibraryManagement.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement\\obj\\",
+        "outputPath": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",

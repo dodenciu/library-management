@@ -1,0 +1,8 @@
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\bin\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.deps.json
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\bin\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.dll
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\bin\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.pdb
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\obj\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\obj\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.AssemblyInfo.cs
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\obj\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\obj\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.dll
+C:\Users\Vlad\Projects\library-management\LibraryManagement.BusinessLogic\obj\Debug\netcoreapp3.1\LibraryManagement.BusinessLogic.pdb
