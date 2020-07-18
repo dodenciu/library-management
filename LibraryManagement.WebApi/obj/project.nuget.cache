@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BR6bunGVKv9UTlMYkwn3c3qnhaTzqEmTr3DHEHYM+0Rm/96nNYMQHRINk9X62nEbmDvYKufxvf/ZQ+Q1+3pBaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlad\\Projects\\library-management\\LibraryManagement.WebApi\\LibraryManagement.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.0\\swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
